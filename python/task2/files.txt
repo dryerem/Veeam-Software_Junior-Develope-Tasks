@@ -1,0 +1,6 @@
+file_01.bin md5 aaeab83fcc93cd3ab003fa8bfd8d8906 (uncorrect)
+file_02.bin md5 6dc2d05c8374293fe20bc4c22c236e2e
+file_03.bin md5 6dc2d05c8374293fe20bc4c22c236e2e
+file_04.txt sha1 da39a3ee5e6b4b0d3255bfef95601890afd80709
+hello.txt sha256 dffd6021bb2bd5b0af676290809ec3a53191dd81c7f70a4b28688a362182986f
+game.cfg md5  824578bae92bf13d541097600faa9a9affff (uncorrect) 824578bae92bf13d541097600faa9a9a (correct)

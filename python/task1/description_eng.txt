@@ -1,0 +1,20 @@
+[eng]
+Implement a program that copies files in accordance with
+configuration file. The configuration file must be in xml format. For
+each file in the configuration file must contain its name, source path and
+the path where you want to copy.
+
+Example
+Config file:
+<config>
+    <file
+        source_path = "C: \ Windows \ system32"
+        destination_path = "C: \ Program files"
+        file_name = "kernel32.dll"
+    />
+    <file
+        source_path = "/ var / log"
+        destination_path = "/ etc."
+        file_name = "server.log"
+    />
+</config>
