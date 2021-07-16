@@ -1,4 +1,4 @@
-# Veeam-Software_Junior-Develope-Tasks
+# Veeam-Software_Junior-Developer-Tasks
 Test assignments for the position Veeam Software_Junior Developer. In the future, it is planned to add solutions in other languages.
 
 Task 1
