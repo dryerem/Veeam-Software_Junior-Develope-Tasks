@@ -1,0 +1,23 @@
+[eng]
+Write a prototype of a test system consisting of two test cases. In this task
+using a third-party module for test automation is discouraged.
+A test system is a class hierarchy that describes test cases.
+Each test case has:
+Number (tc_id) and name (name)
+Methods for preparing (prep), executing (run), and completing (clean_up) tests.
+The execute method, which sets the general order of the test case execution and
+handles exceptions.
+All stages of the test case execution, as well as exceptional situations, should be
+documented in the log file or standard output.
+
+Test case 1: List of files
+[prep] If the current system time, specified as an integer number of seconds from
+the beginning of the Unix era, not a multiple of two, then it is necessary to interrupt the test case execution.
+[run] List files from the current user's home directory.
+[clean_up] No action required.
+
+Test case 2: Random file
+[prep] If the amount of RAM of the machine on which the test is executed is
+less than one gigabyte, then it is necessary to interrupt the test case execution.
+[run] Create a 1024 KB file test with random content.
+[clean_up] Delete file test.

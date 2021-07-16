@@ -1,0 +1,12 @@
+2021-07-16 02:22:59,114 - RandomFileTest - DEBUG - This computer has RAM installed: 8192
+2021-07-16 02:23:00,304 - RandomFileTest - DEBUG - The file was created.
+2021-07-16 02:23:00,304 - RandomFileTest - DEBUG - The file was deleted.
+2021-07-16 02:25:45,610 - RandomFileTest - DEBUG - This computer has RAM installed: 8192
+2021-07-16 02:25:46,846 - RandomFileTest - DEBUG - The file was created.
+2021-07-16 02:25:46,847 - RandomFileTest - DEBUG - The file was deleted.
+2021-07-16 02:26:08,146 - RandomFileTest - DEBUG - This computer has RAM installed: 8192
+2021-07-16 02:26:09,341 - RandomFileTest - DEBUG - The file was created.
+2021-07-16 02:26:09,342 - RandomFileTest - DEBUG - The file was deleted.
+2021-07-16 02:26:49,662 - RandomFileTest - DEBUG - This computer has RAM installed: 8192
+2021-07-16 02:26:50,874 - RandomFileTest - DEBUG - The file was created.
+2021-07-16 02:26:50,874 - RandomFileTest - DEBUG - The file was deleted.
